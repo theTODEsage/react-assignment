@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Login not working",
+    "description": "User reports that they are unable to login with correct credentials.",
+    "priority": "High",
+    "number": 1001,
+    "client": "Alice Johnson",
+    "date": "10-01-2026"
+  },
+  {
+    "title": "Payment failed",
+    "description": "Transaction fails during checkout for multiple users.",
+    "priority": "High",
+    "number": 1002,
+    "client": "Bob Smith",
+    "date": "11-01-2026"
+  },
+  {
+    "title": "Profile picture not uploading",
+    "description": "Users report an error when trying to upload profile images.",
+    "priority": "Medium",
+    "number": 1003,
+    "client": "Charlie Brown",
+    "date": "09-01-2026"
+  },
+  {
+    "title": "Email notifications delayed",
+    "description": "System sends email notifications with significant delay.",
+    "priority": "Low",
+    "number": 1004,
+    "client": "Dana White",
+    "date": "08-01-2026"
+  },
+  {
+    "title": "Cannot reset password",
+    "description": "Password reset link is not working for some users.",
+    "priority": "High",
+    "number": 1005,
+    "client": "Ethan Hunt",
+    "date": "10-01-2026"
+  },
+  {
+    "title": "App crashes on launch",
+    "description": "Mobile app crashes immediately after opening on Android 12.",
+    "priority": "High",
+    "number": 1006,
+    "client": "Fiona Gallagher",
+    "date": "11-01-2026"
+  },
+  {
+    "title": "Incorrect billing amount",
+    "description": "Invoices are showing higher amounts than expected.",
+    "priority": "Medium",
+    "number": 1007,
+    "client": "George Martin",
+    "date": "07-01-2026"
+  },
+  {
+    "title": "Feature request: Dark mode",
+    "description": "Client requests adding dark mode support for better accessibility.",
+    "priority": "Low",
+    "number": 1008,
+    "client": "Hannah Lee",
+    "date": "06-01-2026"
+  },
+  {
+    "title": "Unable to export report",
+    "description": "Export function fails when generating PDF reports over 20 pages.",
+    "priority": "Medium",
+    "number": 1009,
+    "client": "Ian Wright",
+    "date": "09-01-2026"
+  },
+  {
+    "title": "Search functionality broken",
+    "description": "Search results do not display relevant items for certain keywords.",
+    "priority": "High",
+    "number": 1010,
+    "client": "Jane Foster",
+    "date": "12-01-2026"
+  }
+]

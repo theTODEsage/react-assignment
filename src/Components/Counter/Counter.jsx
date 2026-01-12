@@ -2,16 +2,6 @@ import React from 'react';
 
 const Counter = () => {
     return (
-        // <div className='border-2 border-red-400 mt-20 px-20 flex items-center justify-between'>
-        //     <div className='border-2 border-blue-400 h-[250px] w-[700px] items-center'>
-        //         <h2>In-Progress</h2>
-        //         <span>0</span>
-        //     </div>
-        //     <div className='border-2 border-green-400 h-[250px] w-[700px] items-center'>
-        //         <h2>Resolved</h2>
-        //         <span>0</span>
-        //     </div>
-        // </div>
 
         <div className="mt-20 px-4 md:px-20 flex flex-col md:flex-row items-center justify-between gap-4 md:gap-6">
             <div className="h-[250px] w-full md:w-[800px] flex flex-col justify-center items-center bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white rounded-lg">

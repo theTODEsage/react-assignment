@@ -5,7 +5,7 @@ import Nav from './Components/Navbar/Nav'
 import Tickets from './Components/Tickets/Tickets'
 import { ToastContainer } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css'
-import Footer from './Components/Footer/footer'
+import Footer from './Components/Footer/Footer'
 
 const fetchData = async() => {
   const res = await fetch('service.json')
